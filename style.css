@@ -1,18 +1,11 @@
 /*
 Theme Name: Twenty Twelve Child
-Theme URI: http://wordpress.org/themes/twentytwelve
-Template: twentyfourteen
+Template: twentytwelve
 Author: Casey Wilson
-Author URI: http://caseyw.com/
-Description: The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.
 Version: 1.4
-Tags: light, gray, white, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
-Text Domain: twentytwelve-child
+Updated: 2014-08-18 17:16:17
 */
 
-@import url("../twentytwelve/style.css");
-
-
-/* =Theme customization starts here
--------------------------------------------------------------- */
+@charset "UTF-8";
+@import url('../twentytwelve/style.css');
 
