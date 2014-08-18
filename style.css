@@ -1,15 +1,13 @@
 /*
- Theme Name:   Twenty Twelve Child
- Theme URI:    http://example.com/twenty-fourteen-child/
- Description:  Twenty Twelve Child Theme
- Author:       Casey Wilson
- Author URI:   http://caseyw.com
- Template:     twentyfourteen
- Version:      1.0.0
- Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
- Text Domain:  twenty-twelve-child
+Theme Name: Twenty Twelve Child
+Theme URI: http://wordpress.org/themes/twentytwelve
+Author: Casey Wilson
+Author URI: http://caseyw.com/
+Description: The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.
+Version: 1.4
+Tags: light, gray, white, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: twentytwelve-child
 */
-
 
 @import url("../twentytwelve/style.css");
 
