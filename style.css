@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Twenty Twelve Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Twenty Twelve Child Theme
+ Author:       Casey Wilson
+ Author URI:   http://caseyw.com
+ Template:     twentyfourteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-twelve-child
+*/
+
+
+@import url("../twentytwelve/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
