@@ -9,3 +9,17 @@ Updated: 2014-08-18 17:16:17
 @charset "UTF-8";
 @import url('../twentytwelve/style.css');
 
+.entry-content a:visited, .comment-content a:visited {
+    color: #21759b
+}
+
+.entry-header .entry-title {
+    margin-bottom: 4px;
+}
+
+p.date {
+    font-size: 13px;
+    font-style: normal;
+    color: #999999;
+    margin-top: 10px;
+}
